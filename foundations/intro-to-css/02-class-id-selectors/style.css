@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd{
+    background-color:lightpink;
+    font-family: verdana;
+}
+.font-size{
+    font-size:24px;
+}
+#num-two{
+    color:blue;
+    font-size:36px;
+}
+#num-four{
+    background-color:lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
